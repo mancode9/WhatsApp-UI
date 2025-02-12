@@ -1,5 +1,5 @@
 # whatsapp_ui
-
+This is a Fluttter Project In Which we learn how to create clone of whatsapp.
 A new Flutter project.
 
 ## Getting Started
